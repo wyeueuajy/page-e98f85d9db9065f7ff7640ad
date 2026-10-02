@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d50a3d70057e705115445055",
+  "owner": "wyeueuajy",
+  "repo": "page-e98f85d9db9065f7ff7640ad",
+  "title": "99Cloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e98f85d9db9065f7ff7640ad",
+      "a": "99Cloud",
+      "b": "",
+      "entity": "99Cloud",
+      "brand": "99Cloud",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e17dc26ddad4c9307cd49e63d2bd72089c104315e7e8a50895b81022ec738016",
+      "content": {
+        "keyword1": "99Cloud",
+        "keyword2": "",
+        "primary_entity": "99Cloud",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "99Cloud 是专注稳定高速网络加速的官方VPN与机场服务平台，提供多套餐订阅、全球节点与全平台客户端下载，覆盖办公、流媒体与游戏加速场景。",
+          "AI_DESCRIPTION": "99Cloud 是专注稳定高速网络加速的官方VPN与机场服务平台，提供多套餐订阅、全球节点与全平台客户端下载，覆盖办公、流媒体与游戏加速场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#081525;color:#e6f2f7;line-height:1.65;font-size:17px;overflow-x:hidden}body{overflow-wrap:anywhere}a{color:#2ee6d6;text-decoration:none}header{background:#0b1d36;border-bottom:1px solid #1a3a55;padding:12px 16px}nav{display:flex;flex-wrap:wrap;gap:10px 14px;max-width:1100px;margin:0 auto;align-items:center}.brand{font-weight:700;color:#2ee6d6;font-size:1.2rem;margin-right:8px}nav a{color:#c5dde8;font-size:.95rem}main{max-width:1100px;margin:0 auto;padding:18px 16px 48px}h1{font-size:1.8rem;color:#fff;margin:8px 0 14px;line-height:1.3}h2{font-size:1.35rem;color:#2ee6d6;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid #1e4a62}h3{font-size:1.12rem;color:#b8ecf0;margin:16px 0 8px}p,li{margin-bottom:10px}ul,ol{padding-left:1.2em}.lead{color:#cfe7ef}.wrap{display:grid;grid-template-columns:1fr;gap:16px}@media(min-width:760px){.wrap{grid-template-columns:1.65fr .9fr;align-items:start}}.card{background:#12263f;border:1px solid #1e3d58;border-radius:8px;padding:16px}.muted{color:#9ec4d0;font-size:.95rem}.plans{display:grid;grid-template-columns:1fr;gap:14px;margin:14px 0}@media(min-width:840px){.plans{grid-template-columns:repeat(3,1fr)}}.plan{background:#10233a;border:1px solid #234860;border-radius:10px;padding:18px;display:flex;flex-direction:column}.plan.featured{border:2px solid #2ee6d6;background:#103047}.badge{display:inline-block;background:#2ee6d6;color:#081525;font-size:.72rem;font-weight:700;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:1.45rem;color:#fff;margin:6px 0 4px}.annual{font-size:.9rem;color:#8ecad6}.plan ul{margin:8px 0 14px;flex:1}.btn{display:inline-block;background:#17857e;color:#fff;padding:8px 14px;border-radius:6px;text-align:center}.dl{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}.dl a{background:#14324c;border:1px solid #2ee6d6;color:#e6f2f7;padding:8px 12px;border-radius:6px}.steps{background:#12263f;border-radius:8px;padding:16px 16px 8px}.faq details{background:#12263f;border:1px solid #1e3d58;border-radius:8px;padding:12px 14px;margin-bottom:10px}.faq summary{font-weight:650;color:#2ee6d6;font-size:1.04rem}.faq details p{margin-top:8px;color:#d5ebf1}footer{background:#06101c;border-top:1px solid #1a3a55;padding:24px 16px;font-size:.9rem;color:#8aa8b5}.fi{max-width:1100px;margin:0 auto}.ad{background:#0e2438;border:1px dashed #2a5a70;padding:12px;margin:12px 0;color:#9ec4d0}.fl{list-style:none;display:flex;flex-wrap:wrap;gap:8px 16px;padding:0;margin:8px 0 14px}</style><header><nav><span class=\"brand\">99Cloud</span><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#download\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>99Cloud 官方网站 · VPN 加速器与机场订阅</h1><p class=\"lead\">99Cloud 提供官方机场订阅与多端加速客户端，以深色线路调度和加密隧道帮助你稳定访问国际网络，适合办公协作、资料检索、流媒体与游戏加速。</p><div class=\"wrap\" id=\"intro\"><section class=\"card\"><h2>品牌简介</h2><p>99Cloud 是面向个人与团队的网络加速服务。我们以机场订阅为核心，把节点、流量与客户端统一在同一套官方通道里：购买后即可在 Windows、macOS、Android、iOS 及常见开源内核中导入使用。</p><p>服务侧重点是可预期的延迟与可用性，而不是口号式的“无限”。基础线路覆盖日常浏览与会议；旗舰版加入 IPLC 专线与原生流媒体解锁；团队版面向多设备与定制路由。所有套餐均由 99Cloud 官方站点公示价格与配额，下载入口也集中在本页，避免来路不明的安装包。</p><h3>节点与线路策略</h3><p>节点池包含香港、东京、新加坡、洛杉矶等常用出口，普通线路承担通用加速，旗舰与团队可调度 IPLC 与高带宽 VIP 节点。系统会按延迟与负载给出建议，你也可以手动锁定游戏或会议常用线路。传输使用行业常见加密方式，设备侧只保留本地配置，不在页面收集表单信息。</p></section><aside class=\"card\"><h2>官网身份与下载入口</h2><p class=\"muted\">你当前浏览的是 99Cloud 官方网站页面，用于说明套餐、使用场景和客户端获取方式。下载请使用本页锚点按钮，勿轻信第三方镜像。</p><p>快捷前往：</p><p><a href=\"#download\">官方客户端下载</a> · <a href=\"#plans\">查看套餐</a> · <a href=\"#faq\">常见问题</a></p><h3>性能取向</h3><p class=\"muted\">日常网页与文档以普通节点即可；4K 流媒体与国际服对局建议旗舰 IPLC。团队出口高峰时段优先走 VIP 带宽，避免与公共池争抢。</p></aside></div><section id=\"scenes\"><h2>使用场景</h2><div class=\"wrap\"><div class=\"card\"><h3>跨境办公与会议</h3><p>远程桌面、代码仓库、跨国会议对丢包敏感。99Cloud 将会议常用地区节点前置，基础版可覆盖三人同时在线，旗舰支持五台设备轮换，团队版适合科室或项目组统一出口。</p></div><div class=\"card\"><h3>流媒体、学术与游戏</h3><p>基础版解锁常见影视站点；旗舰强调全节点原生流媒体与 IPLC 游戏优化；资料库、预印本与开源镜像走低延迟亚太节点。需要企业级分流时，团队版支持定制路由。</p></div></div></section><section id=\"plans\"><h2>官方套餐</h2><p>价格与配额如下，年付可锁定全年流量重置周期。旗舰版为大多数个人用户的默认选择。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"btn\" href=\"#download\">去下载客户端</a></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"btn\" href=\"#download\">去下载客户端</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"btn\" href=\"#download\">去下载客户端</a></article></div></section><section id=\"download\"><h2>客户端下载</h2><p>99Cloud 官方客户端与兼容配置均在此汇总。安装完成后导入机场订阅链接，更新节点再连接。系统版本过旧时请先升级系统组件。</p><div class=\"dl\"><a href=\"#\">Windows 官方下载</a><a href=\"#\">macOS 官方下载</a><a href=\"#\">Android 官方下载</a><a href=\"#\">iOS 配置说明</a><a href=\"#\">Linux / 命令行</a><a href=\"#\">Clash 兼容订阅</a></div><p class=\"muted\">下载包仅通过官网通道分发。若安装器校验失败，请回到本页重新获取，不要使用来路不明的“破解加速器”。</p></section><section id=\"guide\"><h2>操作说明</h2><div class=\"steps\"><ol><li>对照套餐选择基础版、旗舰版或团队版，完成官方订阅后保存订阅地址。</li><li>在本页客户端下载区安装对应系统应用，或在兼容内核中新建配置。</li><li>粘贴订阅链接并更新节点列表，观察延迟与负载，优先选择标注 IPLC 或原生解锁的线路。</li><li>首次连接建议关闭系统代理冲突项，确认浏览器与游戏走 99Cloud 通道后再进行测速。</li><li>设备数量接近上限时先断开闲置终端。旗舰用户可通过优先工单反馈线路质量，团队用户可申请定制分流。</li></ol></div></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><p>以下问题按实际使用顺序整理，点击即可展开完整说明。</p><details><summary>99Cloud 是什么？和普通 VPN 有何不同？</summary><p>99Cloud 是官方运营的机场订阅与 VPN 加速服务：你购买的是可更新的节点订阅，而不是单一固定服务器。客户端负责加密与分流，节点池覆盖亚太与美洲出口，旗舰还提供 IPLC 与流媒体原生解锁，更适合长期、多设备使用。</p></details><details><summary>如何完成官网下载并导入机场订阅？</summary><p>打开本页「客户端下载」，选择 Windows、macOS、Android 或兼容内核。安装后复制订阅链接，在软件中添加订阅并点击更新。节点出现后选延迟较低的线路连接。iOS 需按配置说明写入描述文件或第三方兼容应用。</p></details><details><summary>三个套餐该怎么选？流量和设备如何计算？</summary><p>轻度浏览与三人以内设备选基础版（100GB / 3 台）。追剧、国际服和五台设备选旗舰版（300GB / 5 台，含 IPLC）。工作室或实验室选团队版（1000GB / 20 台，含 VIP 带宽与定制路由）。流量按自然月重置，同时在线数超限时新连接会被拒绝。</p></details><details><summary>哪些场景需要 IPLC 或 VIP 节点？</summary><p>跨国会议卡顿、竞技游戏延迟抖动、4K 原声流媒体缓冲时，应切换旗舰 IPLC。白天公共池拥挤时，团队 VIP 高带宽节点更稳。普通网页检索用标准节点即可，不必全程占用专线。</p></details><details><summary>连接失败或速度不稳定时如何排查？</summary><p>先确认订阅未过期且设备未超限，再更新节点并更换邻近地区出口。检查本机防火墙、公司网关或重复代理。仍异常时，旗舰用户提交 7x24 优先工单，团队用户联系专属客户经理并附上客户端日志时间戳。</p></details><details><summary>99Cloud 是否提供售后与企业定制？</summary><p>基础版走常规说明与工单队列；旗舰版享有优先响应；团队版配备客户经理，可讨论出口地区、分流规则与设备配额。所有说明以官网公示套餐为准，不在页面伪造评分或用户评论。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"fi\"><div class=\"ad\">广告：99Cloud 官方网站展示合作线路与客户端分发说明，内容仅用于介绍机场订阅与加速器下载，不跳转外部程序。</div><p>友情链接</p><ul class=\"fl\"><li><a href=\"#intro\">99Cloud 简介</a></li><li><a href=\"#plans\">套餐与年付</a></li><li><a href=\"#download\">官网下载</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#\">站点地图</a></li></ul><p>© 99Cloud 官方网站 · VPN 梯子网络加速与机场订阅服务</p></div></footer>",
+          "hash": "b42f9f19712b032f50e2fc61dc6abd1043989e9c7cd87245e6eb35a178745f24",
+          "seo": {
+            "title": "99Cloud 官网 | VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "99Cloud,99Cloud VPN,99Cloud机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "99Cloud 是专注稳定高速网络加速的官方VPN与机场服务平台，提供多套餐订阅、全球节点与全平台客户端下载，覆盖办公、流媒体与游戏加速场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aqerpf.cn",
+    "host": "p-c9c7b0c6d2.aqerpf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "1r095.cn",
+      "url": "https://1r095.cn/",
+      "label": "99Cloud",
+      "apex": "1r095.cn",
+      "kind": null,
+      "identity": "wangbadani1/page-ec32f21cc877a50610da0858"
+    },
+    {
+      "host": "95org.cn",
+      "url": "https://95org.cn/",
+      "label": "99Cloud",
+      "apex": "95org.cn",
+      "kind": null,
+      "identity": "pokiu9728/page-1f03cfde2aa2d5b1cbf4a9f0"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "cc4dae899ac6ad9482aa8a2d5790247ad750a7d62c2c1a8b2685cb1cc2dabcfe",
+    "sitemap.xml": "730f0dabc643ef7ed9920b33d72090d2a1d6bd8dfadf81fa5aeef1402d5cf459",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2df1b063aea8f44fe03d2c7ec1a5d8f9fa2706534047296b2061e82d6cafb5bf",
+    "robots.txt": "3b080c4fbe99a2a3142a3bdeaf195e42b01fc55f3260631c7434bb1d7ed7d4ab",
+    "a8827557008191bf05e9ebf7921bf8f2.txt": "f667bc86df92cec0afbcb0c12fc3701d1add9ae3d69398813ea61f3bffaaded3"
+  },
+  "revision": "68c49524006b7ff057b56acc43e900a27a28cc39c1eacdad326b4230c39e75d6"
+}
